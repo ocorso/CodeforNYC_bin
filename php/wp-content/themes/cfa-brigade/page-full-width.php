@@ -102,8 +102,7 @@ Template Name: Full Width Page
           </a>
         <h2 class="featurette-heading">We Meet Often. <span class="muted">Come Join Us.</span></h2>
         <p class="lead">View our <a href="http://www.meetup.com/cfabrigade/New-York-NY/">
-          Meetups site</a> for our next location and time. We try to meet every few 
-          Wednesdays where we hack (develop) our projects,  
+          Meetups site</a> for our next location and time. We try to meet every few Wednesdays where we hack (develop) our projects,  
           or brainstorm on current issues and activities around Virginia Beach. It's actually a lot of fun, with great people and usually food/drink.</p>
       </div>
 
