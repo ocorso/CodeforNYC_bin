@@ -29,7 +29,7 @@ switch ($_SERVER['SERVER_NAME']) {
     break;
   case 'codefornyc.org':
   case 'codefornyc.ored.net':
-	include('ored.cnf');
+  include(getcwd().'/php/ored.inc');
 	define('DB_HOST', $h);
 	define('DB_NAME', $n);
 	define('DB_USER', $n);
