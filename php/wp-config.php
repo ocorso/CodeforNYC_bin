@@ -21,22 +21,26 @@
 
 
 switch ($_SERVER['SERVER_NAME']) {
-  case 'cfnyc.dev':
+  case 'codefornyc.dev':
       define('DB_HOST', 'localhost');
       define('DB_NAME', 'codefornyc');
       define('DB_USER', 'root');
-      define('DB_PASSWORD', '');
+      define('DB_PASSWORD', 'root');
     break;
   case 'codefornyc.org':
   case 'codefornyc.ored.net':
-	include_once('../../ored.cnf');
+	include('ored.cnf');
+	define('DB_HOST', $h);
+	define('DB_NAME', $n);
+	define('DB_USER', $n);
+	define('DB_PASSWORD', $p);
     break;
     
  default:
 	  define('DB_HOST', 'localhost');
       define('DB_NAME', 'codefornyc');
       define('DB_USER', 'root');
-      define('DB_PASSWORD', '');
+      define('DB_PASSWORD', 'root');
 }
 
 

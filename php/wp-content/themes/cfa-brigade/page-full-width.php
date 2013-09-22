@@ -13,13 +13,13 @@ Template Name: Full Width Page
           <img src="<?php bloginfo('template_directory'); ?>/images/carousel/c1.jpg">
           <div class="container">
             <div class="carousel-caption">
-              <h1>We Are Code for New York City</h1>
+              <h1>We Are #BetaNYC</h1>
               <p class="lead">
-                Come join developers, designers, data geeks, leaders, and idea-makers who volunteer to help Virginia Beach 
+                Come join developers, designers, data geeks, leaders, and idea-makers who volunteer to help NYC's
                 government and civic orgs adopt open web technologies.
               </p>
               <a class="btn btn-large btn-primary" 
-                href="http://www.meetup.com/cfabrigade/New-York-NY/" target="_blank">Stop By Our Meetups</a>
+                href="http://www.meetup.com/betanyc" target="_blank">Stop By Our Meetups</a>
             </div>
           </div>
         </div>
@@ -66,14 +66,14 @@ Template Name: Full Width Page
 
       <div class="featurette">
         <img class="featurette-image pull-left" src="<?php bloginfo('template_directory'); ?>/images/noun_project_756_citizen.png">
-        <h2 class="featurette-heading">Works In Progress. <span class="muted">Here's Some Of Our Current Projects.</span></h2>
+        <h2 class="featurette-heading">Join #betaNYC, <span class="muted">a Code for America Brigade.</span></h2>
+        <h3>We are:</h3>
         <p class="lead">
           <ul class="lead">
-            <li><a href="https://github.com/brigade-hrva/hrt-bus-api">
-              HRT Bus Finder</a>: Real-Time Bus Route Tracking</li>
-            <li>Clean The Bay Day 2013: Easier Cleanup Reporting</li>
-            <li>Adopt-a-Program: Easier Finding of Public Spots Needing Adopting</li>
-            <li><a href="http://citycamphrva.uservoice.com/forums/103669-innovate-for-hampton-roads">List of Future Ideas!</a> Submit your Own Ideas, or Pick One To Help With</li>
+              <li>the largest civic technology gathering in silicon alley </li>
+              <li>the most fun civic coder startup anywhere</li>
+              <li>open government community in the world</li>
+              <li><a href="http://groups.google.com/a/codeforamerica.org/group/brigade/?hl=en">List of Future Ideas!</a> Submit your Own Ideas, or Pick One To Help With</li>
           </ul>
         </p>
       </div>
@@ -97,25 +97,25 @@ Template Name: Full Width Page
       <hr class="featurette-divider">
 
       <div class="featurette">
-        <a href="http://www.meetup.com/cfabrigade/New-York-NY/">
+        <a href="http://meetup.com/betaNYC/ ">
           <img name="meetup" id="meetup" class="featurette-image pull-left" src="<?php bloginfo('template_directory'); ?>/images/meetup.jpg">
           </a>
         <h2 class="featurette-heading">We Meet Often. <span class="muted">Come Join Us.</span></h2>
-        <p class="lead">View our <a href="http://www.meetup.com/cfabrigade/New-York-NY/">
+        <p class="lead">View our <a href="http://meetup.com/betaNYC/">
           Meetups site</a> for our next location and time. We try to meet every few Wednesdays where we hack (develop) our projects,  
-          or brainstorm on current issues and activities around Virginia Beach. It's actually a lot of fun, with great people and usually food/drink.</p>
+          or brainstorm on current issues and activities around New York City. It's actually a lot of fun, with great people and usually food/drink.</p>
       </div>
 
       <hr class="featurette-divider">
 
       <div class="featurette">
-        <a href="https://groups.google.com/a/codeforamerica.org/forum/#!forum/hrva-brigade">
+        <a href="http://groups.google.com/a/codeforamerica.org/group/brigade/?hl=en">
           <img name="groups" id="groups" class="featurette-image pull-right" src="<?php bloginfo('template_directory'); ?>/images/google_groups.png">
         </a>
         <h2 class="featurette-heading">We Discuss Things Online. <span class="muted">Join and Introduce Yourself.</span></h2>
         <p class="lead">
           Can't make it to a meetup?  No problem. We collaborate on projects, ask for help, and post wins 
-          to our <a href="https://groups.google.com/a/codeforamerica.org/forum/#!forum/hrva-brigade">Code for Hampton Roads forum</a> where you can get new posts in email and reply. We welcome anyone to sign-up... you might just see something you're interested in helping with.</p>
+          to our <a href="http://groups.google.com/a/codeforamerica.org/group/brigade/?hl=en">Code for America Brigade GoogleGroup</a> where you can get new posts in email and reply. We welcome anyone to sign-up... you might just see something you're interested in helping with. Email <a href="mailto:brigade@codeforamerica.org" title="The CfA Brigade">here</a> to join.</p>
       </div>
 
       <hr class="featurette-divider">
@@ -123,7 +123,7 @@ Template Name: Full Width Page
       <div class="featurette">
         <img name="contact" id="contact" class="featurette-image pull-right" src="">
         <h2 class="featurette-heading">Want Even More Info? <span class="muted">Contact Us.</span></h2>
-        <p class="lead">Our Brigade Captains are Owen Corso (<a href="mailto:owen@ored.net">owen@ored.net</a> or <a href="https://twitter.com/ocorso">@ocorso</a>) and Bret Fisher (<a href="mailto:bret@fishbrains.com">bret@fishbrains.com</a> or <a href="https://twitter.com/BretFisher">@BretFisher</a>) and we want to hear from you!</p>
+        <p class="lead">Our Brigade Captains are Owen Corso (<a href="mailto:owen@ored.net">owen@ored.net</a> or <a href="https://twitter.com/ocorso">@ocorso</a>) and Noel Hidalgo (<a href="mailto:noel@codeforamerica.org">noel@codeforamerica.org</a> or <a href="https://twitter.com/noneck">@noneck</a>) and we want to hear from you!</p>
       </div>
 
       <hr class="featurette-divider">

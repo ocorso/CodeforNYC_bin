@@ -104,7 +104,7 @@
               <span class="icon-bar"></span>
               <span class="icon-bar"></span>
             </a>
-            <a class="brand" href="#">Code for New York City</a>
+            <a class="brand" href="#">#BetaNYC</a>
             <!-- Responsive Navbar Part 2: Place all navbar contents you want collapsed withing .navbar-collapse.collapse. -->
             <div class="nav-collapse collapse">
               <ul class="nav">
@@ -119,19 +119,19 @@
                   </a>
                   <ul class="dropdown-menu">
                     <li>
-                      <a href="https://groups.google.com/a/codeforamerica.org/forum/#!forum/hrva-brigade">
+                      <a href="http://groups.google.com/a/codeforamerica.org/group/brigade/">
                       <i class=icon-comment icon-white></i> 
                       Our Google Groups Forum</a>
                     </li>
                     <li>
-                      <a href="https://github.com/brigade-hrva">
+                      <a href="https://github.com/ocorso/CodeforNYC_bin">
                         <i class=icon-wrench icon-white></i> 
                         Our Code on GitHub</a>
                     </li>
                     <li>
-                      <a href="http://citycamphrva.uservoice.com/forums/103669-help-us-create-an-agenda-citycamp-hrva">
+                      <a href="http://brigade.codeforamerica.org/">
                       <i class=icon-thumbs-up icon-white></i> 
-                      Idea List for Civic Apps/Open Data</a>
+                      CfA Brigade Homepage</a>
                     </li>
                     
                     <li class="divider"></li>
@@ -142,9 +142,9 @@
                         #cfabrigade - National Tweets</a>
                       </li>
                     <li>
-                      <a href="http://citycamphrva.govfresh.com/">
+                      <a href="http://opennyforum.org/">
                         <i class=icon-bullhorn icon-white></i> 
-                        Kevin's "CityCamp" Blog</a>
+                        #BetaNYC Website</a>
                       </li>
                   </ul>
                 </li>
