@@ -15,7 +15,7 @@
 			echo bloginfo( 'name' ); echo ' - '; bloginfo( 'description', 'display' );  ?> 
 		</title>
 				
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
 		
 		<!-- icons & favicons -->
 		<!-- For iPhone 4 -->
@@ -137,14 +137,19 @@
                     <li class="divider"></li>
                     
                     <li>
-                      <a href="https://twitter.com/search?q=%23cfabrigade">
+                      <a title="#cfabrigade national tweets" href="https://twitter.com/search?q=%23cfabrigade">
                         <i class=icon-retweet icon-white></i> 
                         #cfabrigade - National Tweets</a>
                       </li>
                     <li>
-                      <a href="http://opennyforum.org/">
+                      <a title="#BetaNYC Blog" href="http://opennyforum.org/">
                         <i class=icon-bullhorn icon-white></i> 
-                        #BetaNYC Website</a>
+                        #BetaNYC Blog</a>
+                      </li>                   
+                      <li>
+                      <a title="#BetaNYC Meetup" href="http://meetup.com/betaNYC/">
+                        <i class=icon-bullhorn icon-white></i> 
+                        #BetaNYC Meetup</a>
                       </li>
                   </ul>
                 </li>
